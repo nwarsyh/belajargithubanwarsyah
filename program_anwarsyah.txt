@@ -1,7 +1,13 @@
-Program Anwarsyah
--berisi program-program yang didevelop oleh anwarsyah
--program anwarsyah berbasis web
--program dibuat dengan bahasa pemrograman php, javascript
--program berupa data mining, spk, sistem pakar, sistem informasi, web based dll
--program dibuat oleh anwarsyah sendiri
--program dari referensi internet, buku, e-book, youtube
+laman ini berisi tahapan berlajar github seperti :
+repo = nama folder project digithub
+commit = rekaman atau snapshot pada sebuah commit/perubahan
+hash = penanda atau karakter unit pada sebuah coomit/perubahan
+checout = berpindah dari satu commit ke commit lain
+branch = cabang bebas pada sebuah commit
+merge = menggabungkkan beberapa branch
+remote = sumber yang memiliki repo
+clone = mengambil repo dari remote
+push = pengirimkan commit ke repo
+pull = mengambil commit dari repo
+
+sumber : youtube WPU sadhikagalih
