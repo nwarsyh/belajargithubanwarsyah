@@ -1,0 +1,5 @@
+recana belajar expert :
+- bisa upload via git 
+* gunakan git untuk upload project
+- bisa gunakan composer
+- bisa kelola git dan github
