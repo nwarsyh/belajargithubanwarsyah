@@ -1,5 +1,7 @@
 laman ini berisi tahapan berlajar github seperti :
 repo = nama folder project digithub
+* buat folder sesuai aplikasi
+*sesuaikan kebutuhan folder ddengan aplikasi
 commit = rekaman atau snapshot pada sebuah commit/perubahan
 hash = penanda atau karakter unit pada sebuah coomit/perubahan
 checout = berpindah dari satu commit ke commit lain
